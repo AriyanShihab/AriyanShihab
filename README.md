@@ -1,5 +1,5 @@
 
-![Life time learner](https://github.com/AriyanShihab/AriyanShihab/blob/main/AriyanShihab.png?raw=true)
+![Life time learner](https://github.com/AriyanShihab/AriyanShihab/blob/main/gitBanner.png?raw=true)
 
 ### Hi there 👋, I'm Ariyan Shihab
 
